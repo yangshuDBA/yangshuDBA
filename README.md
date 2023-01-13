@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @yangshuDBA
-- 👀 I’m interested in Database
-- 🌱 I’m currently learning SGSI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-yangshuDBA/yangshuDBA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+职务DBA，感兴趣的内容会自己研究。
